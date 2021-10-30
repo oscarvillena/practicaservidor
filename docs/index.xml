@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal on My New Hugo Site</title>
+    <link>https://oscarvillena.github.io/practicaservidor/</link>
+    <description>Recent content in Principal on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Sep 2021 16:14:35 +0200</lastBuildDate>
+    
+	<atom:link href="https://oscarvillena.github.io/practicaservidor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arquitectura</title>
+      <link>https://oscarvillena.github.io/practicaservidor/practica/arquictectura/</link>
+      <pubDate>Wed, 29 Sep 2021 16:14:35 +0200</pubDate>
+      
+      <guid>https://oscarvillena.github.io/practicaservidor/practica/arquictectura/</guid>
+      <description>Arquitecturas -XAMPP: Es un paquete de software libre que consiste en la gestion de bases de datos MySQL, el servidor Web Apache y los intérpretes para lenguajes de script: PHP y Perl. -WAMPP: Es un stack o conjunto de soluciones de software que significa que cuando instalas, estás instalando Apache, MySQL y PHP. -LAMPP: Es un cojunto de subsistemas de software necesarios para alcanzar una solucion global, en este caso configurar sitios web o servidores dinamicos con esfuerzo reducido.</description>
+    </item>
+    
+    <item>
+      <title>Cliente/Servidor</title>
+      <link>https://oscarvillena.github.io/practicaservidor/practica/servidor/</link>
+      <pubDate>Wed, 29 Sep 2021 16:14:35 +0200</pubDate>
+      
+      <guid>https://oscarvillena.github.io/practicaservidor/practica/servidor/</guid>
+      <description>Comunicacion Cliente y Servidor Este modelo es uno de los principales usados en muchísimos servicios y protocolos de Internet, por lo que para todos aquellos que quieren aprender más sobre la web y cómo funciona, entender el concepto de modelo cliente servidor se vuelve algo indispensable. graph LR; A[Servidor] --|Comunica| B(Internet) B -- C{Envía} C --|1| D[Cliente] C --|2| E[Cliente]  -Importancia del modelo cliente servidor: La arquitectura cliente servidor tiene dos partes claramente diferenciadas, por un lado la parte del servidor y por otro la parte de cliente o grupo de clientes donde lo habitual es que un servidor sea una máquina bastante potente con un hardware y software específico que actúa de depósito de datos y funcione como un sistema gestor de base de datos o aplicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas</title>
+      <link>https://oscarvillena.github.io/practicaservidor/practica/herramientas1/</link>
+      <pubDate>Wed, 29 Sep 2021 16:14:35 +0200</pubDate>
+      
+      <guid>https://oscarvillena.github.io/practicaservidor/practica/herramientas1/</guid>
+      <description>Herramientas -Babel WebPack Prototype Polyfill: Babel es un transcodificador ampliamente utilizado que puede convertir el código ES6 en código ES5, que se puede ejecutar en el entorno existente, por lo que podemos escribir en ES6 sin considerar el tema del soporte ambiental. BABEL
+-PHP Frameworks: Un framework PHP es una plataforma para crear aplicaciones web PHP. Los frameworks de PHP proporcionan bibliotecas de código para funciones de uso común, reduciendo la cantidad de código original que necesitas escribir.</description>
+    </item>
+    
+  </channel>
+</rss>
