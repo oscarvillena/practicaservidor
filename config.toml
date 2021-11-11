@@ -8,3 +8,7 @@ themeVariant="blue"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.es]
+landingPageURL = "http://cpilosenlaces.com"
